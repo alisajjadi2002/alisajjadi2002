@@ -46,7 +46,7 @@ Update project links and descriptions before publishing.
 ### 💻 Programming & Web Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css,bootstrap&theme=dark" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,javascript,c++,c,html,css,bootstrap&theme=dark" alt="Technology stack" />
 </p>
 
 ### 🧠 AI / Machine Learning
