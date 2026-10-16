@@ -8,11 +8,13 @@ Update project links and descriptions before publishing.
 <div align="center">
 
 
+
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:7E22CE&height=200&section=header&text=Ali%20Sajjadi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Development&descAlignY=60&descSize=16"
-  alt="Ali Sajjadi - AI, Machine Learning and Software Development"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:101820,45:163B3A,100:0F766E&height=220&section=header&text=ALI%20SAJJADI&fontSize=52&fontColor=F1F5F9&fontAlignY=42&fontFace=Roboto&desc=COMPUTER%20ENGINEERING%20%7C%20AI%20%7C%20SOFTWARE&descSize=14&descAlignY=66&descColor=99F6E4"
+  alt="Ali Sajjadi - Computer Engineering and AI"
   width="100%"
 />
+
 
 
   <h1>Hi there, I'm Ali Sajjadi 👋</h1>
