@@ -82,9 +82,15 @@ A space for future projects involving machine learning and intelligent applicati
 
 <div align="left">
 
-  <a href="https://github.com/alisajjadi2002">
+  <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="GitHub" />
   </a>
+
+  <a href="mailto:sajjadia413@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-101820?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email me" />
+  </a>
+
+</div>
 
 📧 **Email:** [sajjadia413@gmail.com](mailto:sajjadia413@gmail.com)
 
@@ -94,9 +100,6 @@ A space for future projects involving machine learning and intelligent applicati
   <h3>Learn. Build. Improve. 🚀</h3>
   <i>Learning, building, and improving one project at a time.</i>
 </div>
-
-</div>
-
 ---
 
 <div align="center">
