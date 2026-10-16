@@ -41,7 +41,7 @@ Hi! I'm **Ali Sajjadi**, a Computer Engineering graduate interested in software 
 
 <div align="left">
 
-  <img src="https://skillicons.dev/icons?i=python,django,javascript,cpp,c,html,css,bootstrap&theme=dark" alt="Python, Django, JavaScript, HTML, CSS and Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,django,javascript,cpp,c,html,css,bootstrap&theme=dark" alt="Python, Django, JavaScript, CPP, C, HTML, CSS and Bootstrap" />
 
 </div>
 
@@ -82,7 +82,7 @@ A space for future projects involving machine learning and intelligent applicati
 
 <div align="left">
 
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/alisajjadi2002/Round-Robin-Algorithm">
     <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="GitHub" />
   </a>
 
