@@ -61,7 +61,7 @@ I'm interested in Artificial Intelligence and Machine Learning and plan to explo
 
 An implementation of the Round Robin CPU scheduling algorithm.
 
-[View Repository →](https://github.com/YOUR_USERNAME/Round-Robin-Algorithm)
+[View Repository →](https://github.com/alisajjadi2002/Round-Robin-Algorithm)
 
 ### 🌐 Django Web Development
 
@@ -82,7 +82,7 @@ A space for future projects involving machine learning and intelligent applicati
 
 <div align="left">
 
-  <a href="https://github.com/alisajjadi2002/Round-Robin-Algorithm">
+  <a href="https://github.com/alisajjadi2002">
     <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="GitHub" />
   </a>
 
