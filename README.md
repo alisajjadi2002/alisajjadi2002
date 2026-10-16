@@ -13,7 +13,7 @@ Update project links and descriptions before publishing.
     width="100%"
   />
 
-  <h1>Hi there, I'm YOUR_NAME 👋</h1>
+  <h1>Hi there, I'm Ali Sajjadi 👋</h1>
   <h3>Computer Engineer | Software Developer | AI Enthusiast</h3>
 
   <p>
@@ -102,9 +102,8 @@ Exploring intelligent applications and machine learning through hands-on project
 
 ## 📫 Connect With Me
 
-- **GitHub:** [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- **LinkedIn:** Add your LinkedIn profile URL here.
-- **Email:** Add a public contact email if you want to share it.
+- **GitHub:**(https://github.com/alisajjadi2002)
+- **Email:** (sajjadia413@gmail.com)
 
 ---
 
