@@ -123,8 +123,9 @@ Interested in learning and experimenting with neural networks and deep learning 
 <div align="center">
 
   <img
-    src="https://streak-stats.demolab.com?user=alisajjadi2002&hide_border=true&background=101820&ring=2DD4BF&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=CBD5E1&dates=94A3B8"
-    alt="GitHub contribution streak"
+    src="https://streak-stats.demolab.com/?user=alisajjadi2002&theme=dark&hide_border=true&background=101820&ring=2DD4BF&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=CBD5E1&sideNums=5EEAD4&dates=94A3B8"
+    alt="Total Contributions, Current Streak and Longest Streak"
+    width="100%"
   />
 
 </div>
