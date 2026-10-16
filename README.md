@@ -74,11 +74,6 @@ An implementation of the Round Robin CPU scheduling algorithm.
 
 [View Repository →](https://github.com/alisajjadi2002/Round-Robin-Algorithm)
 
-### 🌐 Django Web Development
-
-Web applications built while learning Python and Django.
-
-<!-- Add links to your actual Django repositories here. -->
 
 ### 👁️ Computer Vision & Image Processing
 
@@ -86,18 +81,23 @@ Interested in developing projects involving image analysis, visual recognition, 
 
 <!-- Add completed project links here as you build them. -->
 
-### ⚡ TinyML & Edge AI
-
-Exploring the possibilities of running machine learning models on resource-constrained devices.
-
-<!-- Add real TinyML projects here when available. -->
-
 ### 🧠 Deep Learning
 
 Interested in learning and experimenting with neural networks and deep learning applications.
 
 <!-- Add completed projects and their repositories here. -->
 
+### ⚡ TinyML & Edge AI
+
+Exploring the possibilities of running machine learning models on resource-constrained devices.
+
+<!-- Add real TinyML projects here when available. -->
+
+### 🌐 Django Web Development
+
+Web applications built while learning Python and Django.
+
+<!-- Add links to your actual Django repositories here. -->
 ---
 
 <!-- ==================== GITHUB STATS ==================== -->
@@ -153,8 +153,6 @@ Interested in learning and experimenting with neural networks and deep learning 
   </a>
 
 </div>
-
-📧 **Email:** [sajjadia413@gmail.com](mailto:sajjadia413@gmail.com)
 
 ---
 
