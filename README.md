@@ -92,15 +92,7 @@ A space for future projects involving machine learning and intelligent applicati
 
 </div>
 
-📧 **Email:** [sajjadia413@gmail.com](mailto:sajjadia413@gmail.com)
 
----
-
-<div align="center">
-  <h3>Learn. Build. Improve. 🚀</h3>
-  <i>Learning, building, and improving one project at a time.</i>
-</div>
----
 
 <div align="center">
 
