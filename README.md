@@ -41,7 +41,7 @@ Hi! I'm **Ali Sajjadi**, a Computer Engineering graduate interested in software 
 
 <div align="left">
 
-  <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css,bootstrap&theme=dark" alt="Python, Django, JavaScript, HTML, CSS and Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,django,javascript,cpp,c,html,css,bootstrap&theme=dark" alt="Python, Django, JavaScript, HTML, CSS and Bootstrap" />
 
 </div>
 
@@ -75,38 +75,6 @@ A space for future projects involving machine learning and intelligent applicati
 
 <!-- Add completed projects here as you build them. -->
 
----
-
-<!-- ==================== GITHUB STATS ==================== -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=101820&title_color=5EEAD4&icon_color=2DD4BF&text_color=CBD5E1"
-    alt="GitHub statistics"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=101820&title_color=5EEAD4&text_color=CBD5E1"
-    alt="Most used languages"
-  />
-
-</div>
-
-<div align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=101820&ring=2DD4BF&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=CBD5E1&dates=94A3B8"
-    alt="GitHub contribution streak"
-  />
-
-</div>
-
----
 
 <!-- ==================== CONNECT ==================== -->
 
@@ -114,7 +82,7 @@ A space for future projects involving machine learning and intelligent applicati
 
 <div align="left">
 
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/alisajjadi2002">
     <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="GitHub" />
   </a>
 
