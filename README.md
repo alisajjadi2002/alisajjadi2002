@@ -1,90 +1,145 @@
 
-<!--
-GitHub Profile README
-Replace YOUR_USERNAM and YOUR_NAME with your own details.
-Update project links and descriptions before publishing.
--->
+<!-- ==================== HEADER ==================== -->
 
 <div align="center">
 
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:101820,45:163B3A,100:0F766E&height=220&section=header&text=ALI%20SAJJADI&fontSize=52&fontColor=F1F5F9&fontAlignY=42&desc=COMPUTER%20ENGINEERING%20%7C%20AI%20%7C%20SOFTWARE&descSize=14&descAlignY=66&descColor=99F6E4"
+    width="100%"
+    alt="Ali Sajjadi portfolio banner"
+  />
 
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:101820,45:163B3A,100:0F766E&height=220&section=header&text=ALI%20SAJJADI&fontSize=52&fontColor=F1F5F9&fontAlignY=42&fontFace=Roboto&desc=COMPUTER%20ENGINEERING%20%7C%20AI%20%7C%20SOFTWARE&descSize=14&descAlignY=66&descColor=99F6E4"
-  alt="Ali Sajjadi - Computer Engineering and AI"
-  width="100%"
-/>
-
-
-
-  <h1>Hi there, I'm Ali Sajjadi 👋</h1>
-  <h3>Computer Engineer | Software Developer | AI Enthusiast</h3>
-
-  <p>
-    Interested in building useful software and exploring how AI can solve real-world problems.
-  </p>
-
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
+  <!-- Animated typing effect -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=5EEAD4&center=true&vCenter=true&width=650&lines=Building+intelligent+software;Exploring+Artificial+Intelligence;Learning+%7C+Building+%7C+Growing"
+    alt="Animated introduction"
+  />
 
 </div>
 
 ---
 
-## 🚀 About Me
+<!-- ==================== ABOUT ME ==================== -->
 
-- 🎓 Computer Engineering graduate.
-- 💻 Interested in software development and artificial intelligence.
+## 👨‍💻 About Me
+
+Hi! I'm **Ali Sajjadi**, a Computer Engineering graduate interested in software development and artificial intelligence.
+
+- 🧠 Interested in AI and Machine Learning.
 - 🐍 Working with Python and Django.
-- 🌐 Interested in web development and building useful applications.
-- 🧠 Exploring AI and machine learning.
-- 📚 Always learning and improving my engineering skills.
+- 🌐 Interested in web development.
+- 🚀 Exploring intelligent software applications.
+- 📚 Always learning and improving my skills.
 
-## 🛠️ Tech Stack
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+## ⚙️ Tech Stack
 
 ### 💻 Programming & Web Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,javascript,cpp,c,html,css,bootstrap&theme=dark" alt="Technology stack" />
-</p>
+<div align="left">
 
-### 🧠 AI / Machine Learning
+  <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css,bootstrap&theme=dark" alt="Python, Django, JavaScript, HTML, CSS and Bootstrap" />
 
-I'm interested in artificial intelligence and machine learning and am building my knowledge in this field.
+</div>
 
-<!-- Add NumPy, pandas, scikit-learn, PyTorch or TensorFlow here only after using them. -->
+### 🧠 AI & Machine Learning
 
-## 📌 Featured Projects
+I'm interested in Artificial Intelligence and Machine Learning and plan to explore these fields through practical projects.
+
+<!-- Add more technologies only when you have actually used them. -->
+
+---
+
+<!-- ==================== PROJECTS ==================== -->
+
+## 🚀 Featured Projects
 
 ### 🔄 Round Robin Scheduling Algorithm
 
 An implementation of the Round Robin CPU scheduling algorithm.
 
-[View Repository](https://github.com/YOUR_USERNAME/Round-Robin-Algorithm)
-
-<!-- Update the link above if the repository is hosted under a different username. -->
+[View Repository →](https://github.com/YOUR_USERNAME/Round-Robin-Algorithm)
 
 ### 🌐 Django Web Development
 
-I'm interested in building web applications using Python and Django.
+Web applications built while learning Python and Django.
 
-<!-- Add your actual Django project repository here. -->
+<!-- Replace this section with links to your real Django repositories. -->
 
 ### 🤖 AI & Machine Learning
 
-Exploring intelligent applications and machine learning through hands-on projects.
+A space for future projects involving machine learning and intelligent applications.
 
-<!-- Add real projects here as you complete them. -->
+<!-- Add completed projects here as you build them. -->
 
+---
 
-## 📫 Connect With Me
+<!-- ==================== GITHUB STATS ==================== -->
 
-- **GitHub:**(https://github.com/alisajjadi2002)
-- **Email:** (sajjadia413@gmail.com)
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=101820&title_color=5EEAD4&icon_color=2DD4BF&text_color=CBD5E1"
+    alt="GitHub statistics"
+  />
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=101820&title_color=5EEAD4&text_color=CBD5E1"
+    alt="Most used languages"
+  />
+
+</div>
+
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=101820&ring=2DD4BF&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=CBD5E1&dates=94A3B8"
+    alt="GitHub contribution streak"
+  />
+
+</div>
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+
+## 🌐 Connect With Me
+
+<div align="left">
+
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="GitHub" />
+  </a>
+
+  <!-- Add LinkedIn when you have your profile URL -->
+  <!--
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-101820?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn" />
+  </a>
+  -->
+
+</div>
 
 ---
 
 <div align="center">
-  <i>Learning, building, and improving one project at a time. 🚀</i>
+
+  <h3>Learn. Build. Improve. 🚀</h3>
+
+  <i>Learning, building, and improving one project at a time.</i>
+
+  <!-- Animated teal footer wave -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:101820&height=120&section=footer"
+    width="100%"
+    alt="Teal footer wave"
+  />
+
 </div>
