@@ -55,9 +55,9 @@ Hi! I'm **Ali Sajjadi**, a Computer Engineering graduate interested in software 
 I'm interested in exploring AI technologies and building intelligent applications through practical projects.
 
 - 🧠 **Deep Learning** — neural networks and deep learning models.
-- 🔬 **TinyML** — efficient machine learning for microcontrollers and edge devices.
 - 👁️ **Computer Vision** — enabling computers to understand visual information.
 - 🖼️ **Image Processing** — analyzing and manipulating digital images.
+- 🔬 **TinyML** — efficient machine learning for microcontrollers and edge devices.
 
 <!-- Add frameworks such as PyTorch, TensorFlow, OpenCV or scikit-learn
      to your tech stack when you have actually used them. -->
