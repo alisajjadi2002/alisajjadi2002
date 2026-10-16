@@ -1,14 +1,14 @@
 
 <!--
 GitHub Profile README
-Replace YOUR_USERNAME and YOUR_NAME with your own details.
+Replace YOUR_USERNAM and YOUR_NAME with your own details.
 Update project links and descriptions before publishing.
 -->
 
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:7E22CE&height=200&section=header&text=YOUR_NAME&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Development&descAlignY=60&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:7E22CE&height=200&section=header&text=Ali Sajjadi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Development&descAlignY=60&descSize=16"
     alt="Blue and purple profile banner"
     width="100%"
   />
