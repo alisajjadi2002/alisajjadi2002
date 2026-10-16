@@ -7,11 +7,13 @@ Update project links and descriptions before publishing.
 
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:7E22CE&height=200&section=header&text=Ali Sajjadi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Development&descAlignY=60&descSize=16"
-    alt="Blue and purple profile banner"
-    width="100%"
-  />
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:7E22CE&height=200&section=header&text=Ali%20Sajjadi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Development&descAlignY=60&descSize=16"
+  alt="Ali Sajjadi - AI, Machine Learning and Software Development"
+  width="100%"
+/>
+
 
   <h1>Hi there, I'm Ali Sajjadi 👋</h1>
   <h3>Computer Engineer | Software Developer | AI Enthusiast</h3>
