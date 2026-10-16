@@ -86,12 +86,14 @@ A space for future projects involving machine learning and intelligent applicati
     <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="GitHub" />
   </a>
 
-  <!-- Add LinkedIn when you have your profile URL -->
-  <!--
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-101820?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn" />
-  </a>
-  -->
+📧 **Email:** [sajjadia413@gmail.com](mailto:sajjadia413@gmail.com)
+
+---
+
+<div align="center">
+  <h3>Learn. Build. Improve. 🚀</h3>
+  <i>Learning, building, and improving one project at a time.</i>
+</div>
 
 </div>
 
