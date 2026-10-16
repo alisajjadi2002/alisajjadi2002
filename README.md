@@ -11,7 +11,7 @@
 
   <!-- Animated typing effect -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=5EEAD4&center=true&vCenter=true&width=650&lines=Building+intelligent+software;Exploring+Artificial+Intelligence;Learning+%7C+Building+%7C+Growing"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=5EEAD4&center=true&vCenter=true&width=650&lines=Building+intelligent+software;Exploring+Artificial+Intelligence;Deep+Learning+%7C+TinyML;Computer+Vision+%7C+Image+Processing;Learning+%7C+Building+%7C+Growing"
     alt="Animated introduction"
   />
 
@@ -25,11 +25,13 @@
 
 Hi! I'm **Ali Sajjadi**, a Computer Engineering graduate interested in software development and artificial intelligence.
 
-- 🧠 Interested in AI and Machine Learning.
+- 🧠 Interested in Artificial Intelligence and Machine Learning.
 - 🐍 Working with Python and Django.
-- 🌐 Interested in web development.
-- 🚀 Exploring intelligent software applications.
-- 📚 Always learning and improving my skills.
+- 🌐 Interested in web development and software engineering.
+- 🧠 Exploring Deep Learning and intelligent systems.
+- 📷 Interested in Computer Vision and Image Processing.
+- ⚡ Curious about TinyML and deploying AI on resource-constrained devices.
+- 📚 Always learning and improving my engineering skills.
 
 ---
 
@@ -41,15 +43,24 @@ Hi! I'm **Ali Sajjadi**, a Computer Engineering graduate interested in software 
 
 <div align="left">
 
-  <img src="https://skillicons.dev/icons?i=python,django,javascript,cpp,c,html,css,bootstrap&theme=dark" alt="Python, Django, JavaScript, CPP, C, HTML, CSS and Bootstrap" />
+  <img
+    src="https://skillicons.dev/icons?i=python,django,javascript,cpp,c,html,css,bootstrap&theme=dark"
+    alt="Python, Django, JavaScript, C++, C, HTML, CSS and Bootstrap"
+  />
 
 </div>
 
-### 🧠 AI & Machine Learning
+### 🧠 AI / Machine Learning
 
-I'm interested in Artificial Intelligence and Machine Learning and plan to explore these fields through practical projects.
+I'm interested in exploring AI technologies and building intelligent applications through practical projects.
 
-<!-- Add more technologies only when you have actually used them. -->
+- 🧠 **Deep Learning** — neural networks and deep learning models.
+- 🔬 **TinyML** — efficient machine learning for microcontrollers and edge devices.
+- 👁️ **Computer Vision** — enabling computers to understand visual information.
+- 🖼️ **Image Processing** — analyzing and manipulating digital images.
+
+<!-- Add frameworks such as PyTorch, TensorFlow, OpenCV or scikit-learn
+     to your tech stack when you have actually used them. -->
 
 ---
 
@@ -67,14 +78,58 @@ An implementation of the Round Robin CPU scheduling algorithm.
 
 Web applications built while learning Python and Django.
 
-<!-- Replace this section with links to your real Django repositories. -->
+<!-- Add links to your actual Django repositories here. -->
 
-### 🤖 AI & Machine Learning
+### 👁️ Computer Vision & Image Processing
 
-A space for future projects involving machine learning and intelligent applications.
+Interested in developing projects involving image analysis, visual recognition, and image processing.
 
-<!-- Add completed projects here as you build them. -->
+<!-- Add completed project links here as you build them. -->
 
+### ⚡ TinyML & Edge AI
+
+Exploring the possibilities of running machine learning models on resource-constrained devices.
+
+<!-- Add real TinyML projects here when available. -->
+
+### 🧠 Deep Learning
+
+Interested in learning and experimenting with neural networks and deep learning applications.
+
+<!-- Add completed projects and their repositories here. -->
+
+---
+
+<!-- ==================== GITHUB STATS ==================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=alisajjadi2002&show_icons=true&hide_border=true&bg_color=101820&title_color=5EEAD4&icon_color=2DD4BF&text_color=CBD5E1"
+    alt="GitHub statistics"
+  />
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisajjadi2002&layout=compact&hide_border=true&bg_color=101820&title_color=5EEAD4&text_color=CBD5E1"
+    alt="Most used languages"
+  />
+
+</div>
+
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=alisajjadi2002&hide_border=true&background=101820&ring=2DD4BF&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=CBD5E1&dates=94A3B8"
+    alt="GitHub contribution streak"
+  />
+
+</div>
+
+---
 
 <!-- ==================== CONNECT ==================== -->
 
@@ -83,16 +138,26 @@ A space for future projects involving machine learning and intelligent applicati
 <div align="left">
 
   <a href="https://github.com/alisajjadi2002">
-    <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="GitHub" />
+    <img
+      src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=5EEAD4"
+      alt="GitHub"
+    />
   </a>
 
   <a href="mailto:sajjadia413@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-101820?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email me" />
+    <img
+      src="https://img.shields.io/badge/Gmail-101820?style=for-the-badge&logo=gmail&logoColor=EA4335"
+      alt="Email me"
+    />
   </a>
 
 </div>
 
+📧 **Email:** [sajjadia413@gmail.com](mailto:sajjadia413@gmail.com)
 
+---
+
+<!-- ==================== FOOTER ==================== -->
 
 <div align="center">
 
