@@ -75,32 +75,6 @@ Exploring intelligent applications and machine learning through hands-on project
 
 <!-- Add real projects here as you complete them. -->
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub statistics"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Most-used programming languages"
-  />
-
-</div>
-
-<div align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-
-</div>
 
 ## 📫 Connect With Me
 
