@@ -44,8 +44,8 @@ Hi! I'm **Ali Sajjadi**, a Computer Engineering graduate interested in software 
 <div align="left">
 
   <img
-    src="https://skillicons.dev/icons?i=python,django,javascript,cpp,c,html,css,bootstrap&theme=dark"
-    alt="Python, Django, JavaScript, C++, C, HTML, CSS and Bootstrap"
+    src="https://skillicons.dev/icons?i=python,jupyter,django,javascript,cpp,c,html,css,bootstrap&theme=dark"
+    alt="Python, Django, Jupyter , JavaScript, C++, C, HTML, CSS and Bootstrap"
   />
 
 </div>
