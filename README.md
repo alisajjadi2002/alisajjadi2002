@@ -79,6 +79,8 @@ An implementation of the Round Robin CPU scheduling algorithm.
 
 Interested in developing projects involving image analysis, visual recognition, and image processing.
 
+Developing a system to distinguish between old and new banknotes
+[View Repository →](https://github.com/alisajjadi2002/Banknote)
 <!-- Add completed project links here as you build them. -->
 
 ### 🧠 Deep Learning
